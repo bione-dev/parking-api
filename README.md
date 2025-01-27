@@ -1,5 +1,13 @@
+---
+
+## Captura de Tela
+
+![Estacionamento em Tempo Real](https://raw.githubusercontent.com/bione-dev/parking-api/master/frontend/estacionamento.gif)
+
+---
+
 ```markdown
-# Estacionamento em Tempo Real
+# Estacionamento
 
 Este projeto é uma aplicação web para gerenciar vagas de um estacionamento. Ele consiste em um **backend** desenvolvido com **Quarkus** e um **frontend** construído com **React**.
 
@@ -98,15 +106,6 @@ curl -X GET http://localhost:8080/parking-slots
 ```bash
 curl -X PUT http://localhost:8080/parking-slots/1/toggle
 ```
-
----
-
-## Captura de Tela
-
-![Estacionamento em Tempo Real](https://raw.githubusercontent.com/bione-dev/parking-api/master/frontend/estacionamento.gif)
-
----
-
 ## Melhorias Futuras
 
 - Implementar autenticação para gerenciar acessos.
