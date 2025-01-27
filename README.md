@@ -103,7 +103,7 @@ curl -X PUT http://localhost:8080/parking-slots/1/toggle
 
 ## Captura de Tela
 
-![Estacionamento em Tempo Real](estacionamento.gif)
+![Estacionamento em Tempo Real](https://raw.githubusercontent.com/bione-dev/parking-api/master/frontend/estacionamento.gif)
 
 ---
 
