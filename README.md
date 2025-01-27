@@ -103,7 +103,7 @@ curl -X PUT http://localhost:8080/parking-slots/1/toggle
 
 ## Captura de Tela
 
-![Estacionamento em Tempo Real](imgur.com/a/n8zv9jV)
+![Estacionamento em Tempo Real](estacionamento.gif)
 
 ---
 
