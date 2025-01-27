@@ -1,5 +1,3 @@
-Segue o conteúdo de um arquivo `README.md` para documentar o seu projeto:
-
 ```markdown
 # Estacionamento em Tempo Real
 
